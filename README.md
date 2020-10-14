@@ -5,11 +5,9 @@ Home: https://github.com/aspuru-guzik-group/selfies
 
 Package license: Apache-2.0
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/selfies-feedstock/blob/master/LICENSE.txt)
 
 Summary: SELFIES (SELF-referencIng Embedded Strings) is a general-purpose, sequence-based, robust representation of semantically constrained graphs.
-
-
 
 Current build status
 ====================
