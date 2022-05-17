@@ -1,5 +1,5 @@
 {% set name = "selfies" %}
-{% set version = "2.0.0" %}
+{% set version = "2.1.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/selfies-{{ version }}.tar.gz
-  sha256: 184d82d77f4cc9a788d4686600ab8a7dc7de650e6a6edf36c21eff516e719eb7
+  sha256: 3398cb88aaa92bd2728286bdd16109c8aaebd5f30e7aa0550459fd64db351521
 
 build:
   number: 0
@@ -18,9 +18,9 @@ build:
 requirements:
   host:
     - pip
-    - python >=3.5
+    - python >=3.7
   run:
-    - python >=3.5
+    - python >=3.7
     - rdkit
 
 test:
