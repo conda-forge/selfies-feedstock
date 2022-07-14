@@ -1,5 +1,5 @@
 {% set name = "selfies" %}
-{% set version = "2.1.0" %}
+{% set version = "2.1.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/selfies-{{ version }}.tar.gz
-  sha256: 3398cb88aaa92bd2728286bdd16109c8aaebd5f30e7aa0550459fd64db351521
+  sha256: d8066b47e746a6ca5111143e5365ffebbb56b0b244328a61dd4e344d0125f84b
 
 build:
   number: 0
