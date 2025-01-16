@@ -1,7 +1,7 @@
 About selfies-feedstock
 =======================
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/selfies-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tmphg87spgh-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/aspuru-guzik-group/selfies
 
@@ -15,8 +15,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=10585&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/selfies-feedstock?branchName=main">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/tmphg87spgh-feedstock?branchName=main">
       </a>
     </td>
   </tr>
